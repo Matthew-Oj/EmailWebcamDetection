@@ -26,7 +26,7 @@ This GitHub repository contains a Python-based webcam application that uses obje
 
 Before using this application, make sure you have the following prerequisites installed:
 
-- Python 3.x
+- Python 3.10
 - OpenCV (for webcam access)
 - smtplib (for sending emails)
 
